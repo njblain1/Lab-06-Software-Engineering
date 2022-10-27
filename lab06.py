@@ -5,3 +5,6 @@ sum = int(num_1) + int(num_2)
 
 print("The sum is: ", sum)
 #hi
+
+subtract = int(num_1) + int(num_2)
+print("The difference is: ", subtract)
